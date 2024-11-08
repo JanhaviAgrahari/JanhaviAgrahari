@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @JanhaviAgrahari.
-- 👀 I’m interested in Artificial Inteligence and Machine Learning.
-- 🌱 I’m currently learning JAVA.
-- 💞️ I’m looking to collaborate AI and ML projects with startups.
-- 📫 How to reach me: Email me at - janhaviagrahari1410@gmail.com
-- 😄 Pronouns: She/Her.
-- ⚡ Fun fact: I am very passionate about learning new and evolving technologies.
+👋 Hi, I’m Janhavi Agrahari!
+🔭 Currently working on Machine Learning projects while enhancing my frontend development skills.
+🌱 Learning Machine Learning, ReactJS, and Data Structures & Algorithms.
+👯 Open to collaborating on AI/ML projects, frontend development, and open-source contributions.
+💬 Ask me about frontend development, and my experiences with SIH 2023, SIH 2024 and Lucknow AI Labs.
+📫 Reach out via email or LinkedIn!
+😄 Pronouns: She/Her
+⚡ Fun fact: I’m passionate about exploring and learning new, evolving technologies.
 
 
 
