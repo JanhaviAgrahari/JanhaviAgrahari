@@ -1,13 +1,12 @@
 
-- 👋 Hi, I’m Janhavi Agrahari!  
-- 🔭 Currently working on Machine Learning projects while enhancing my frontend development skills.  
-- 🌱 Learning Machine Learning, ReactJS, and Data Structures & Algorithms.  
-- 👯 Open to collaborating on AI/ML projects, frontend development, and open-source contributions.  
-- 💬 Ask me about frontend development, and my experiences with SIH 2023, SIH 2024, and Lucknow AI Labs.  
-- 📫 Reach out via [email](mailto:janhaviagrahari1410@gmail.com) or [LinkedIn](https://www.linkedin.com/in/janhavi-agrahari-ab6911249/)!  
-- 😄 Pronouns: She/Her  
-- ⚡ Fun fact: I’m passionate about exploring and learning new, evolving technologies.  
-
+- 👋 Hi, I’m **Janhavi Agrahari**!  
+- 🔭 Currently working on **Machine Learning** projects while enhancing my **frontend development** skills.  
+- 🌱 Learning **Machine Learning**, **ReactJS**, and **Data Structures & Algorithms**.  
+- 👯 Open to collaborating on **AI/ML projects**, **frontend development**, and **open-source contributions**.  
+- 💬 Ask me about **frontend development**, and my experiences with **SIH 2023**, **SIH 2024**, and **Lucknow AI Labs**.  
+- 📫 Reach out via [**email**](mailto:janhaviagrahari1410@gmail.com) or [**LinkedIn**](https://www.linkedin.com/in/janhavi-agrahari-ab6911249/)!  
+- 😄 Pronouns: **She/Her**  
+- ⚡ Fun fact: I’m passionate about exploring and learning **new, evolving technologies**.  
 
 
 
